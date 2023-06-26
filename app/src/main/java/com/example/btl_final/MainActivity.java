@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.d("Init", "Hello world");
+
+        Log.d("nmh test git", "Aaaaaaa");
     }
 }
